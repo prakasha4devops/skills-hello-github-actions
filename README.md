@@ -6,6 +6,8 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+[![Step 4, Merge your pull request](https://github.com/prakasha4devops/skills-hello-github-actions/actions/workflows/4-merge-your-pull-request.yml/badge.svg)](https://github.com/prakasha4devops/skills-hello-github-actions/actions/workflows/4-merge-your-pull-request.yml)
+
 ## Step 5: Trigger the workflow
 
 _You've now added a fully functioning workflow to your repository! :smile:_
